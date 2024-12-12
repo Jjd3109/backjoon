@@ -17,6 +17,7 @@ public class back_11659 {
         int[] getValue = new int[dataValue + 1];
 
 
+
         StringTokenizer st2 = new StringTokenizer(br.readLine());
 
         getValue[0] = 0;
