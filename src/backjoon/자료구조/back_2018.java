@@ -26,7 +26,7 @@ public class back_2018 {
                 sum = sum - start_index;
                 start_index++;
             } else {
-                end_index+++;
+                end_index++;
                 sum = sum + end_index;
             }
         }
